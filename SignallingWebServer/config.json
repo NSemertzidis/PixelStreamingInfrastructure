@@ -10,6 +10,7 @@
 	"homepage": "player.html",
 	"https": false,
 	"https_port": 443,
+	"UseAuthentication" : true,
 	"ssl_key_path": "certificates/client-key.pem",
 	"ssl_cert_path": "certificates/client-cert.pem",
 	"https_redirect": true,
